@@ -190,7 +190,7 @@ Check if the change appears in GitHub.
 
 ![GITLAB](Images/GitLab.png)
 
-![Priv_repo](Images/priv-repo.png)
+![Priv_repo](Images/Priv-repo.png)
 ---
 ### 🔐 Subtask 6: Access Control
 ---
