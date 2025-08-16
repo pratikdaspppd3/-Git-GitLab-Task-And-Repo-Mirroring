@@ -186,11 +186,11 @@ Check if the change appears in GitHub.
 ---
 ### Screenshots Of Task
 
-![CMD](images/commands.png)
+![CMD](Images/commands.png)
 
-![GITLAB](images/GitLab.png)
+![GITLAB](Images/GitLab.png)
 
-![Priv_repo](images/priv-repo.png)
+![Priv_repo](Images/priv-repo.png)
 ---
 ### 🔐 Subtask 6: Access Control
 ---
